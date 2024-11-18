@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\layout_activity_radio.xml.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\layout\\activity_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.week1.app-debug-32:/layout_activity_sign_up_assignment.xml.flat",
+        "source": "com.example.week1.app-main-34:/layout/activity_sign_up_assignment.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\layout_activity_sign_up_assignment.xml.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\layout\\activity_sign_up_assignment.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\drawable_apple.jpg.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\drawable\\apple.jpg"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\drawable_arrow.png.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\drawable\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\drawable_text_field.xml.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\drawable\\text_field.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\drawable_image_1665679288096.jpeg.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\drawable\\image_1665679288096.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\drawable_sample_shape.xml.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\drawable\\sample_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\drawable_sign_up_textfields.xml.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\drawable\\sign_up_textfields.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\drawable_banana.jpg.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\drawable\\banana.jpg"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\layout_activity_form.xml.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\layout\\activity_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\drawable_sign_up_btn.xml.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\drawable\\sign_up_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\drawable_cherry.jpg.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\drawable\\cherry.jpg"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\subha\\.gradle\\daemon\\8.9\\com.example.week1.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    }
+]
